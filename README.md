@@ -64,3 +64,7 @@ Start here: python-frameworks/00-python-frameworks-index.md
 ## Special Thanks
 
 ![SkillBrew](./assets/Screenshot%202025-12-10%20at%202.47.40 AM.png)
+
+End-to-end hiring workflow with screening, assessment and interviews that saves time,
+finds better talent, and eliminates hiring chaos
+To learn more reach out to https://skillbrew.ai/
