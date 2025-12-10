@@ -6,7 +6,18 @@
 
 ## What will you find here
 
-### 1. Python Basics Guide
+### 1. Git and GitHub Setup Guide
+#### Version control essentials for collaborative development.
+##### Files: 5 topic files + 1 index
+- Installation on Windows, macOS, Linux
+- SSH key setup for secure authentication
+- Cloning repositories and basic workflow
+- Essential Git commands
+- Common issues and troubleshooting (15 problems)
+
+Start here: git-github/00-git-index.md
+
+### 2. Python Basics Guide
 #### Learn fundamental Python concepts and best practices.
 ##### Files: 8 topic files + 1 index + 1 setup guide
 - Data structures (lists, tuples, dictionaries, sets, strings)
@@ -19,7 +30,17 @@
 
 Start here: python-basics/python-setup.guide.md
 
-### 2. AWS Beginner Guide
+### 3. Python Frameworks Guide
+#### Build modern APIs with Pydantic, SQLAlchemy, and FastAPI.
+##### Files: 4 topic files + 1 index
+- Pydantic for data validation
+- SQLAlchemy for database operations
+- FastAPI for building APIs
+- Complete applications and production patterns
+
+Start here: python-frameworks/00-python-frameworks-index.md
+
+### 4. AWS Beginner Guide
 #### Master cloud computing with Amazon Web Services.
 ##### Files: 7 topic files + 1 index
 - Account setup and free tier
@@ -31,27 +52,6 @@ Start here: python-basics/python-setup.guide.md
 - Console navigation and troubleshooting
 
 Start here: aws-guide/00-aws-index.md
-
-### 3. Git and GitHub Setup Guide
-#### Version control essentials for collaborative development.
-##### Files: 5 topic files + 1 index
-- Installation on Windows, macOS, Linux
-- SSH key setup for secure authentication
-- Cloning repositories and basic workflow
-- Essential Git commands
-- Common issues and troubleshooting (15 problems)
-
-Start here: git-github/00-git-index.md
-
-### 4. Python Frameworks Guide
-#### Build modern APIs with Pydantic, SQLAlchemy, and FastAPI.
-##### Files: 4 topic files + 1 index
-- Pydantic for data validation
-- SQLAlchemy for database operations
-- FastAPI for building APIs
-- Complete applications and production patterns
-
-Start here: python-frameworks/00-python-frameworks-index.md
 
 ## Reach Out to Us
 
