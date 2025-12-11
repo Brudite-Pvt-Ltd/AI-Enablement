@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="assets/python.png" width="70px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></td>
     <!-- <td align="center"><img src="images/jenkins.png" width="70px;" height="85px;" alt="Jenkins"/><br /><b>Jenkins</b></td> -->
