@@ -1,7 +1,7 @@
 ![My Logo](./assets/banner.png)
 
 
-<center>
+<p align="center">
 <table>
   <tr>
     <td align="center"><img src="assets/python.png" width="70px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></td>
@@ -15,7 +15,7 @@
   
   
 </table>
-</center>
+</p>
 
 
 ## Contents
