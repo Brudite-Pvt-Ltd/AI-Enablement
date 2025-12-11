@@ -1,15 +1,41 @@
-# [🔗](./README.md) Welcome to the AI Pilot Program Resource Hub!
+![My Logo](./assets/banner.png)
+
+
+<center>
+<table>
+  <tr>
+    <td align="center"><img src="assets/python.png" width="70px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></td>
+    <!-- <td align="center"><img src="images/jenkins.png" width="70px;" height="85px;" alt="Jenkins"/><br /><b>Jenkins</b></td> -->
+    <td align="center"><img src="assets/git.png" width="75px;" height="75px;" alt="Git"/><br /><b>Git</b></td>
+    <td align="center"><img src="assets/cloud.png" width="65px;" height="75px;" alt="Ansible"/><br /><b>Cloud</b></td>
+    <td align="center"><img src="assets/aws.png" width="80x;" height="75px;" alt="Network"/><br /><b>AWS</b></td>
+    <td align="center"><img src="assets/coding.png" width="75x;" height="75px;" alt="Linux"/><br /><b>Coding</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" idth="75x;" height="75px;" /><b>Linkedin</b></td>
+  </tr>
+  
+  
+</table>
+</center>
+
+
+## Contents
+- [Introduction](#welcome-to-the-ai-pilot-program-resource-hub)
+- [Learning Platform](#the-learning-platform)
+- [Git and Github Setup Guide](#git-and-github-setup-guide)
+- [Python Basics](#python-basics)
+- [Python Framework: FastAPI](#python-framework-fastapi)
+- [AWS Beginner Guide](#aws-beginner-guide)
+- [Practice Box](#practice-box)
+- [Project Repositories](#project-repositories)
+
+
+## Welcome to the AI Pilot Program Resource Hub!
 
 **AI-Pilot Program** is a 30-days hands-on, practice-driven initiative by **Brudite**, designed to help students strengthen their profiles, gain practical experience, and get excited about AI and cloud technologies.  
 
 This repository contains all the **official learning materials** for the **AI-Pilot Program**.  
 
 You’ll find **beginner-friendly guides**, **hands-on exercises**, and **related project code repositories**.
-
-
-
-![My Logo](./assets/image.png)
-
 
 
 <p align="center">
@@ -20,22 +46,14 @@ You’ll find **beginner-friendly guides**, **hands-on exercises**, and **relate
   <img src="https://img.shields.io/badge/SkillBrew-Platform-red" alt="SkillBrew">
 </p>
 
-## Contents
-
-- [Learning Platform](#the-learning-platform)
-- [Git and Github Setup Guide](#git-and-github-setup-guide)
-- [Python Basics](#python-basics)
-- [Python Framework: FastAPI](#python-framework-fastapi)
-- [AWS Beginner Guide](#aws-beginner-guide)
-- [Practice Box](#practice-box)
-- [Project Repositories](#project-repositories)
 
 
-## The Learning Platform
 
-📌 Your platform partner is <u><a href="https://www.skillbrew.ai">Skillbrew.ai ↗</a></u>
+## Get Started your Onboarding
 
-## Git and Github Setup Guide
+📌 Sign up, Somplete your profile, and kick off your AI enablement journey with <u><a href="https://www.skillbrew.ai">Skillbrew.ai ↗</a></u>
+
+## [Git and Github Setup Guide](git/)
 
 A version control system that helps you track changes in your code, collaborate with others, and manage projects efficiently. This section introduces you to Git and its commands, with step-by-step guidance.
 
@@ -46,10 +64,9 @@ You’ll learn:
 - **Essential Git commands** for daily usage  
 - **Common issues and troubleshooting** (15 problems covered)
 
-📌 **Start here:** [git-github/00-git-index.md](git-github/00-git-index.md)
 
 
-## Python Basics
+## [Python Basics](python-resources/)
 
 Your **Langugae medium** in this program that helps you to collaborate, and talk with your system, AI, and your developer friends.
 
@@ -63,10 +80,8 @@ Start With:
 - **File handling**: reading, writing, CSV, JSON, path management  
 - **Common issues and solutions**: 15 problems with fixes  
 
-📌 **Start here:** [Python-Setup Guide](python-resources/python-setup-guide.md)
 
-
-##  Python Framework: FastAPI
+##  [Python Framework: FastAPI](python-frameworks/)
 
 **FastAPI: Your gateway to building modern, high-performance APIs with Python.**  
 
@@ -76,9 +91,7 @@ Start With:
 - FastAPI for building APIs
 - Complete applications and production patterns
 
-📌 **Start here:** [Python-Framework Guide](python-frameworks/00-python-frameworks-index.md)
-
-##  AWS Beginner Guide
+##  [AWS Beginner Guide](aws/)
 Master cloud computing with Amazon Web Services.
 
 
@@ -90,23 +103,20 @@ Master cloud computing with Amazon Web Services.
 - RDS and DynamoDB databases
 - Console navigation and troubleshooting
 
-- 📌 **Start here:** [Start your AWS journey](aws/00-aws-index.md)
 
 ##  Practice Box
 
 Your daily pin points
 
 
+## Project Repositories
 
-##  Project Repositories
-
-- 
-
+- [Look-Alike](https://github.com/Brudite-Pvt-Ltd/Look-Alike)
+- [Auto Job Apply System](https://github.com/Brudite-Pvt-Ltd/Auto-job-Apply-System)
 
 
 
 ## 📌 License
-
 
 
 Copyright © 2025 **Brudite**.  
