@@ -10,7 +10,7 @@
     <td align="center"><img src="assets/cloud.png" width="65px;" height="75px;" alt="Ansible"/><br /><b>Cloud</b></td>
     <td align="center"><img src="assets/aws.png" width="80x;" height="75px;" alt="Network"/><br /><b>AWS</b></td>
     <td align="center"><img src="assets/coding.png" width="75x;" height="75px;" alt="Linux"/><br /><b>Coding</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" idth="75x;" height="75px;" /><b>Linkedin</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" idth="75x;" height="75px;" / alt="linkedin"><br /><b>Linkedin</b></td>
   </tr>
   
   
