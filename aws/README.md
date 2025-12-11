@@ -4,7 +4,7 @@ This is the index for the AWS Beginner Guide. The original document has been bro
 
 ## Files Overview
 
-### 1. **01-aws-account-setup.md**
+### 1. [AWS Account Setup](01-aws-account-setup.md)
 Getting started with AWS:
 - Account creation prerequisites
 - Step-by-step account creation process
@@ -14,7 +14,7 @@ Getting started with AWS:
 - Navigating the AWS Management Console
 - Best practices for beginners
 
-### 2. **02-aws-iam.md**
+### 2. [AWS IAM](02-aws-iam.md)
 Identity and Access Management (IAM):
 - Why IAM is important for security
 - Root account vs IAM users
@@ -25,7 +25,7 @@ Identity and Access Management (IAM):
 - IAM roles for service-to-service access
 - IAM best practices
 
-### 3. **03-aws-s3.md**
+### 3. [AWS S3](03-aws-s3.md)
 Amazon Simple Storage Service (S3):
 - Key concepts: buckets, objects, keys
 - Creating S3 buckets
@@ -36,7 +36,7 @@ Amazon Simple Storage Service (S3):
 - S3 best practices
 - Managing S3 resources
 
-### 4. **04-aws-ec2.md**
+### 4. [AWS EC2](04-aws-ec2.md)
 Elastic Compute Cloud (EC2):
 - EC2 concepts: instances, instance types, AMIs, security groups
 - Step-by-step instance launching
@@ -48,7 +48,7 @@ Elastic Compute Cloud (EC2):
 - Elastic IPs for static addresses
 - Cost optimization tips
 
-### 5. **05-aws-lambda.md**
+### 5. [AWS Lambda](05-aws-lambda.md)
 AWS Lambda (Serverless Computing):
 - Lambda concepts: functions, triggers, execution roles
 - Creating your first Lambda function
@@ -61,7 +61,7 @@ AWS Lambda (Serverless Computing):
 - Error handling
 - Use cases for serverless applications
 
-### 6. **06-aws-databases.md**
+### 6. [AWS Databases](06-aws-databases.md)
 Relational and NoSQL Databases:
 - **RDS (Relational Database Service)**:
   - Supported database engines (MySQL, PostgreSQL, etc.)
@@ -79,7 +79,7 @@ Relational and NoSQL Databases:
 
 - **RDS vs DynamoDB comparison** for choosing right database
 
-### 7. **07-aws-console-troubleshooting.md**
+### 7. [Conseole TroubleShooting](07-aws-console-troubleshooting.md)
 Console navigation and troubleshooting:
 - AWS Management Console layout
 - Accessing services (3 methods)
@@ -105,17 +105,13 @@ Console navigation and troubleshooting:
 ## How to Use This Guide
 
 ### For Complete Beginners
-1. Start with **01-aws-account-setup.md** - Create your account
-2. Read **02-aws-iam.md** - Set up security
-3. Try **03-aws-s3.md** - Store your first file
-4. Explore **05-aws-lambda.md** - Create serverless function
-5. Reference **07-aws-console-troubleshooting.md** as needed
+1. Start with **AWS Account Setup** - Create your account
+2. Read **AWS IAM** - Set up security
+3. Try **AWS S3** - Store your first file
+4. Explore **AWS Lambda** - Create serverless function
+5. Reference **Console troubleShooting** as needed
 
-### For Learning Specific Services
-- **Storage**: Jump to **03-aws-s3.md**
-- **Compute**: Jump to **04-aws-ec2.md** or **05-aws-lambda.md**
-- **Database**: Jump to **06-aws-databases.md**
-- **Security**: Jump to **02-aws-iam.md**
+
 
 ### For Troubleshooting
 - Go directly to **07-aws-console-troubleshooting.md**
