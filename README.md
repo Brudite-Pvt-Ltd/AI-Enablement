@@ -20,7 +20,7 @@
 
 ## Contents
 - [Introduction](#welcome-to-the-ai-pilot-program-resource-hub)
-- [Learning Platform](#the-learning-platform)
+- [Learning Platform](#get-started-your-onboarding)
 - [Git and Github Setup Guide](#git-and-github-setup-guide)
 - [Python Basics](#python-basics)
 - [Python Framework: FastAPI](#python-framework-fastapi)
